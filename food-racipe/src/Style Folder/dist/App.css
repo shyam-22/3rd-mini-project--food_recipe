@@ -1,0 +1,14 @@
+.jumbotron {
+  background-color: orangered;
+  color: white;
+  padding: 50px 170px;
+  text-align: center;
+}
+
+.brand-icon {
+  font-size: 60px;
+}
+
+.list-group-item {
+  border-color: brown;
+}

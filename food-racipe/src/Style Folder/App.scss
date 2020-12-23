@@ -1,14 +1,30 @@
-.actions{
-    opacity: 0;
+// .actions{
+//     opacity: 0;
+// }
+
+// tr:hover .actions{
+//     opacity: 1;
+// }
+
+// tbody td a {
+//     color: black;
+//     &:hover{
+//         color: red;
+//     }
+// }
+
+.jumbotron{
+    background-color: orangered;
+    color: white;
+    padding: 50px 170px;
+    text-align: center;
 }
 
-tr:hover .actions{
-    opacity: 1;
+.brand-icon{
+    font-size: 60px;
 }
 
-tbody td a {
-    color: black;
-    &:hover{
-        color: red;
-    }
+.list-group-item{
+    border-color: brown;
 }
+
