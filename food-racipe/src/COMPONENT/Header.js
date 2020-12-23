@@ -8,7 +8,7 @@ const Header = (props) => {
            local_cafe food_bank local_pizza</i>
       <h1 className="display-2" style={{margin:"10px"}}> 
         <i className="material-icons brand-icon" style={{margin:"10px"}}>fastfood</i>
-        <i><b>...Food Recipe...</b></i>
+        <i><b>...Food Recipes...</b></i>
         <i className="material-icons brand-icon" style={{margin:"10px"}}>menu_book</i>
       </h1>
 

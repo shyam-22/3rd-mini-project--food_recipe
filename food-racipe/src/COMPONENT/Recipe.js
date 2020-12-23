@@ -7,6 +7,7 @@ const Recipe = (props) => {
         <div className="row">
             {
                 recipes.map(data => <RecipeItem 
+                    key={Math.random()*10}
                     label={data.recipe.label} 
                     image={data.recipe.image}
                     ingredientLines={data.recipe.ingredientLines}
